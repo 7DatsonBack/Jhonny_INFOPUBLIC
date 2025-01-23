@@ -5,4 +5,4 @@
 <p1>This is just public information, so I don't care. Do what you wanna do.
 
 ## Information on this page,
-<p1>Information on this page can include project version, author, last updated, etc etc.
+<p1>Information on this page can include project version, author, last updated, python code (maybe), etc etc.
