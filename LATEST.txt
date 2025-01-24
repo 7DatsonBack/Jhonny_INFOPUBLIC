@@ -1,2 +1,2 @@
-Project-Name: JhonnyMulti-1.0.0
-Project-Version: 1.0.0 Beta
+ProjectName: JhonnyMulti-1.0.0
+ProjectVersion: 1.0.0 Beta
