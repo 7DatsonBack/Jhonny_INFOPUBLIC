@@ -1,2 +1,4 @@
-ProjectName: JhonnyMulti-1.0.0
-ProjectVersion: 1.0.0 Beta
+{
+  "ProjectName": "JhonnyMulti-1.0.0",
+  "ProjectVersion": "1.0.0 Beta"
+}
