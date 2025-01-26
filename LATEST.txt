@@ -1,4 +1,4 @@
 {
-  "ProjectName": "JhonnyMulti-1.0.0",
+  "ProjectName": "JhonnyMulti1.0.0",
   "ProjectVersion": "1.0.0 Beta"
 }
